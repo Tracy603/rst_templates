@@ -1,3 +1,6 @@
+.. |Cm| replace:: Curriculum
+.. |Inl| replace:: Instructional
+
 #####################
 TRACY L. RUSCH
 #####################
@@ -18,7 +21,7 @@ TRACY L. RUSCH
     * - TLRusch@mac.com
       - 603.714.9337 
       - 'Triangle Writing Website <www.TriangleWriting.com>'_
-      - 'Linked In Profile Page <www.LinkedIn.com/in/TracyRusch/>'_
+      - 'LinkedIn Profile <www.LinkedIn.com/in/TracyRusch/>'_
 
 ================
 POSITION SOUGHT
@@ -29,10 +32,10 @@ POSITION SOUGHT
 
     * - * Technical Writing
       - * Technical Writer
-    * - * Instructional Design
-      - * Instructional Designer
-    * - * Curriculum Development
-      - * Curriculum Developer
+    * - * |Inl| Design
+      - * |Inl| Designer
+    * - * |Cm| Development
+      - * |Cm| Developer
     * - * Project Management
       - * Project Manager
     * - * Math Teacher
@@ -148,4 +151,19 @@ ACHIEVEMENTS
    * Sufficiently advanced knowledge to work intelligently with a broad range of subject matter experts.
 
 #. Leader in the movement to improve K-12 mathematics curriculum that included revising standards, presentations at national and international conferences, multiple publications, and creation of new undergraduate and graduate teacher education courses.
+
+.. note:: There are more Achievements listed in the complete CV.
+
+.. caution:: Don't tease the animals.
+
+.. only:: Administrators
+
+TUFTS UNIVERSITY
+Independently initiated and managed a complex 18-month project culminating in the College of Arts & Sciences (A&S) assessment report that resulted in a ten-year accreditation approval.  
+
+.. only:: Teachers
+
+WRIGHT STATE UNIVERSITY:  
+Managed multiple responsibilities and projects simultaneously, including curriculum development, teaching, formal research, grant proposals, writing for publication, and community service.
+
 
